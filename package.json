@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-simple-uuid",
+  "version": "1.0.0",
+  "description": "nodejs module to generate uuid v4 simply",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan-moon/nodejs-simple-uuid.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "uuid",
+    "uuidv4"
+  ],
+  "author": "Evan Moon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evan-moon/nodejs-simple-uuid/issues"
+  },
+  "homepage": "https://github.com/evan-moon/nodejs-simple-uuid#readme"
+}
