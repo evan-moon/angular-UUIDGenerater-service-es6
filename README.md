@@ -1,4 +1,7 @@
-# nodejs-simple-uuid
+[npm-image]: https://img.shields.io/npm/v/nodejs-simple-uuid.svg
+[npm-url]: https://www.npmjs.com/package/nodejs-simple-uuid
+
+# nodejs-simple-uuid [![npm][npm-image]][npm-url]
 nodejs module to generate RFC 4122 UUID v4 simply and fast.
 > Requires node 8.5.0 of later
 
