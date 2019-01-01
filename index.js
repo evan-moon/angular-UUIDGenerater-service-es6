@@ -1,9 +1,5 @@
-module.exports = function (format) {
+module.exports = function (format = 'xxxxxxxx-xxxx-4xxx-xxxx-xxxxxxxxxxxx') {
   const { performance } = require('perf_hooks');
-
-  if (!format || typeof format !== 'string') {
-    throw new Error('first argument is not string.');
-  }
 
   const now = new Date().getMilliseconds();
   const isExistPerformance = performance && performance.now();
